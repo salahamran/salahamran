@@ -29,7 +29,7 @@ In **2024**, I began my professional study of Python at **Yandex Practicum**, fo
 
 ## Contact
 
-- **Website**: [https://www.salahamran.com](https://www.salahamran.com)  
+- **Website**: [https://www.salahamran.com](https://www.salahclicks.ru)  
 - **Telegram**: [@salkinov](https://t.me/salkinov)  
 
 ---
@@ -42,8 +42,7 @@ In **2024**, I began my professional study of Python at **Yandex Practicum**, fo
 
 ---
 
-# Салах Амран
-
+ 🇷🇺
 ---
 
 ## Обо мне
